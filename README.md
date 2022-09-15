@@ -3,8 +3,9 @@
 
 ## in main.js change following line to desired URL 
 
-// and load the index.html of the app.
-  mainWindow.loadURL('http://localhost')
+
+mainWindow.loadURL('http://localhost')
+
 
 ## run this commands to build electron rpm package 
 
