@@ -1,4 +1,11 @@
 
+## run this commands to build electron rpm package 
+
+## in main.js change following line to desired URL 
+
+// and load the index.html of the app.
+  mainWindow.loadURL('http://localhost')
+
 sudo apt update
 sudo apt install npm -y
 
